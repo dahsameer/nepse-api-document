@@ -13,16 +13,16 @@ The response should look like this.
 
 ```json
 {
-  accessToken: "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiO3iJ5Y28i5LCJzdWIiOiIxMiIsImlhdCI6MTY0OTc2OTc1MSwiZXhwIjoxNjQ5NzY5ODExfQ.e8dEagbDPbwn7QR8nNfMA73Fx5Tn8QyC5KLr_GaRCL0"
-  refreshToken: "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiO2iJ5Y283iLCJzdWIiOiIxIiwiaWF0IjoxNjQ5NzY5NzUxLCJleHAiOjE2NDk3NzMzNTF9.WVGqY_LthO_C1BGl5-9GS58cJ2WLSFa8S-U48lfv1mk"
-  salt: "Y-w.vG8,I*v5[*-S?i3n"
-  salt1: 27431
-  salt2: 76353
-  salt3: 65229
-  salt4: 91802
-  salt5: 38487
-  serverTime: 1649769751000
-  tokenType: ""
+  "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiO3iJ5Y28i5LCJzdWIiOiIxMiIsImlhdCI6MTY0OTc2OTc1MSwiZXhwIjoxNjQ5NzY5ODExfQ.e8dEagbDPbwn7QR8nNfMA73Fx5Tn8QyC5KLr_GaRCL0",
+  "refreshToken": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiO2iJ5Y283iLCJzdWIiOiIxIiwiaWF0IjoxNjQ5NzY5NzUxLCJleHAiOjE2NDk3NzMzNTF9.WVGqY_LthO_C1BGl5-9GS58cJ2WLSFa8S-U48lfv1mk",
+  "salt": "Y-w.vG8,I*v5[*-S?i3n",
+  "salt1": 27431,
+  "salt2": 76353,
+  "salt3": 65229,
+  "salt4": 91802,
+  "salt5": 38487,
+  "serverTime": 1649769751000,
+  "tokenType": ""
 }
 ```
 
