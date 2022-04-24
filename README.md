@@ -120,4 +120,6 @@ which will now let you get the data of today's market.
 The arrays that are used above like `dataArr` and `dummyData` are found from studying the source code from wasm file and main javascript file.
 
 
-This method to get details works currently(as of 2022-04-12) but it might change in the future. I'll also try to make a javascript library in the future since I have not seen any till the moment.
+This method to get details works currently(as of 2022-04-12) but it might change in the future. 
+
+I've also made a [library](https://github.com/dahsameer/nepse-api-helper) made in typescript and a [npm package](https://www.npmjs.com/package/nepse-api-helper) for this.
